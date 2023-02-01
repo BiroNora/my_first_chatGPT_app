@@ -1,0 +1,37 @@
+[
+    {
+    "title": "Full Stack Developer",
+    "location": "New York, NY",
+    "description": "We are looking for a Full Stack Developer to join our team. The ideal candidate will have experience with React, Node.js, and AWS."
+    },
+    {
+    "title": "Front End Developer",
+    "location": "San Francisco, CA",
+    "description": "A rapidly growing tech company is seeking a talented Front End Developer to join our team. The ideal candidate will have experience with Angular and CSS."  },  {    "title": "Back End Engineer",    "location": "Boston, MA",    "description": "We are seeking a Back End Engineer to help build and maintain our server-side applications. The ideal candidate will have experience with Ruby on Rails and PostgreSQL."
+    },
+    {
+    "title": "DevOps Engineer",
+    "location": "Austin, TX",
+    "description": "A rapidly growing tech company is looking for a DevOps Engineer to help us automate our infrastructure and deploy our applications. The ideal candidate will have experience with Ansible and AWS."
+    },
+    {
+    "title": "Data Scientist",
+    "location": "San Francisco, CA",
+    "description": "A technology company is seeking a skilled Data Scientist with expertise in Python and machine learning to join their team. The successful candidate will have experience with data analysis and modeling."
+    },
+    {
+    "title": "Product Manager",
+    "location": "London, UK",
+    "description": "We are looking for an experienced Product Manager to drive the development and launch of new products. The ideal candidate will have a strong background in Agile methodologies and experience working with cross-functional teams."
+    },
+    {
+    "title": "DevOps Engineer",
+    "location": "Toronto, Canada",
+    "description": "A rapidly growing startup is seeking a DevOps Engineer to help scale their infrastructure. The ideal candidate will have experience with CI/CD pipelines, cloud computing, and configuration management tools."
+    },
+    {
+    "title": "Mobile Developer",
+    "location": "Berlin, Germany",
+    "description": "We are looking for a talented Mobile Developer to join our team. The ideal candidate will have experience with React Native and have published one or more mobile apps on the App Store or Google Play."
+    }
+]
